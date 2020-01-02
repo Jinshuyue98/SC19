@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577943762531.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6870F1B",
+    "lastKnownWriteTime" : 1577944778,
+    "last_content_update" : 1577944778774,
+    "path" : "C:/Users/11345/Desktop/SC19083/man/SC19083-package.Rd",
+    "project_path" : "man/SC19083-package.Rd",
+    "properties" : {
+        "cursorPosition" : "16,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
