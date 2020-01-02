@@ -12,9 +12,5 @@ Shuyue Jin
 
 Maintainer: Shuyue Jin <jean@mail.ustc.edu.cn>
 }
-\reference{
- "A Bayesian Methodology for Systemic Risk Assessment in Financial Networks"
- "Distress and default contagion in financial networks"
-}
 \keyword{ package }
 
