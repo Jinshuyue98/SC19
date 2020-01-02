@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577946045281.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7E29366A",
+    "lastKnownWriteTime" : 1577946094,
+    "last_content_update" : 1577946094166,
+    "path" : "C:/Users/11345/Desktop/SC19083/src/Metropolis.cpp",
+    "project_path" : "src/Metropolis.cpp",
+    "properties" : {
+        "cursorPosition" : "9,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
